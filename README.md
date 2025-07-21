@@ -13,7 +13,6 @@
       <th style="padding:4px;">💻 Frontend</th>
       <th style="padding:4px;">🚀 Backend</th>
       <th style="padding:4px;">🗄️ Databases</th>
-      <th style="padding:4px;">🤖 Automation & Data</th>
       <th style="padding:4px;">⚙️ DevOps</th>
     </tr>
   </thead>
@@ -22,14 +21,12 @@
       <td style="padding:4px;">Next.js 🚀</td>
       <td style="padding:4px;">NestJS 🛡️</td>
       <td style="padding:4px;">PostgreSQL 🐘</td>
-      <td style="padding:4px;">SQLAlchemy 📊</td>
       <td style="padding:4px;">Docker 🐳</td>
     </tr>
     <tr style="text-align:center;">
       <td style="padding:4px;">React ⚛️</td>
       <td style="padding:4px;">FastAPI ⚡</td>
       <td style="padding:4px;">MongoDB 🍃</td>
-      <td style="padding:4px;">Python Bots 🐍</td>
       <td style="padding:4px;">CI/CD 🔄</td>
     </tr>
   </tbody>
