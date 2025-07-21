@@ -37,6 +37,10 @@
 
 <br/>
 
+<p align="center" style="margin-top: 15px;">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,py,nestjs,fastapi,postgres,mongo,git,docker,linux" />
+</p>
+
 ## 🚀 About Me
 
 - Developing **scalable and secure APIs** with **NestJS** & **FastAPI** 🔐  
