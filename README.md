@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="j4nyLF3YWBW8YHX3jc7qQOtgeRqd9nG2rvimuQRESsA" />
 <h1 align="center">Taha Samani | Full-Stack Developer 🚀</h1>
 
 <p align="center">
