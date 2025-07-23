@@ -1,67 +1,55 @@
-<div align="center">
-  <h1>
-    👋 Hey, I'm Taha Samani
-  </h1>
-  <p>Backend & Frontend Developer — passionate about clean code, performance & security 🔐</p>
-</div>
+<h1 align="center">Taha Samani | Full-Stack Developer 🚀</h1>
 
-<br/>
+<p align="center">
+  Hi! I'm <strong>Taha Samani</strong> (طاها سامانی), a passionate full-stack developer from Iran 🇮🇷.<br/>
+  I love building scalable, secure, and maintainable software — with ❤️ for clean code & performance.
+</p>
 
-<table align="center" style="margin:auto; border-collapse: collapse; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:16px; color:#eee; background:#111;">
+<p align="center">
+  <em>Keywords: Taha Samani, taha-samani, Full-stack developer, Backend developer, طاها سامانی, NestJS developer, GitHub Iran</em>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🛡️ I specialize in **backend development** using **NestJS** & **FastAPI**
+- ⚛️ I build interactive **frontends** with **React** and **Next.js**
+- 🗃️ I'm experienced with **PostgreSQL** and **MongoDB**
+- 🐳 I use **Docker**, **Git**, and **CI/CD** pipelines for modern dev workflows
+- 🐍 I automate stuff with **Python** and love writing scripts
+- 🔍 Passionate about **clean architecture** & **secure APIs**
+
+---
+
+## 🧠 Tech Stack
+
+<table align="center" style="margin:auto; border-collapse: collapse;">
   <thead>
-    <tr style="">
-      <th style="padding:4px;">💻 Frontend</th>
-      <th style="padding:4px;">🚀 Backend</th>
-      <th style="padding:4px;">🗄️ Databases</th>
-      <th style="padding:4px;">⚙️ DevOps</th>
+    <tr>
+      <th>💻 Frontend</th>
+      <th>🚀 Backend</th>
+      <th>🗄️ Databases</th>
+      <th>⚙️ DevOps</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="text-align:center;">
-      <td style="padding:4px;">Next.js 🚀</td>
-      <td style="padding:4px;">NestJS 🛡️</td>
-      <td style="padding:4px;">PostgreSQL 🐘</td>
-      <td style="padding:4px;">Docker 🐳</td>
-    </tr>
-    <tr style="text-align:center;">
-      <td style="padding:4px;">React ⚛️</td>
-      <td style="padding:4px;">FastAPI ⚡</td>
-      <td style="padding:4px;">MongoDB 🍃</td>
-      <td style="padding:4px;">CI/CD 🔄</td>
+    <tr align="center">
+      <td>React ⚛️<br/>Next.js 🚀</td>
+      <td>NestJS 🛡️<br/>FastAPI ⚡</td>
+      <td>PostgreSQL 🐘<br/>MongoDB 🍃</td>
+      <td>Docker 🐳<br/>CI/CD 🔄</td>
     </tr>
   </tbody>
 </table>
 
-<br/>
-
-<p align="center" style="margin-top: 15px;">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,py" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongo,nestjs,fastapi" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,docker" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux" />
-  
-</p>
-
-## 🚀 About Me
-
-- Developing **scalable and secure APIs** with **NestJS** & **FastAPI** 🔐  
-- Crafting **modern and performant UIs** with **React** & **Next.js** ⚛️  
-- Working with **PostgreSQL** & **MongoDB** for data persistence 📂  
-- Automating tasks and data pipelines using **Python** & **SQLAlchemy** 🐍  
-- Deploying and optimizing applications with **Docker** & **CI/CD** ⚙️  
-
 ---
 
-## 🎯 Interests
+## 📦 Tools & Languages
 
-- 🛡️ **Backend Security** — writing secure code & protecting APIs  
-- 🏗️ **Clean Architecture** — designing maintainable systems  
-- 🧩 **Frontend Performance** — delivering smooth UX  
-- 🗃️ **Database Optimization** — tuning for efficiency & scale  
-- ⚙️ **Automation & Efficiency** — streamlining workflows  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,fastapi,nestjs,postgres,mongo,docker,git,linux" />
+</p>
 
 ---
 
@@ -69,15 +57,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taha-samani&show_icons=true&theme=dark" />
-  <br/>
-  <br/>
-  
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=taha-samani&theme=dark" />
 </p>
 
 ---
 
 ## 📬 Contact
+
 <p align="center">
   <a href="mailto:tahasamaniss@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -92,6 +79,6 @@
 
 ---
 
-<p align="center" style="color:#61dafb; font-family: 'Fira Code', monospace; font-size: 16px;">
+<p align="center" style="font-family:'Fira Code', monospace; font-size: 16px;">
   <strong>Code with purpose. Build with care. Deliver with confidence. 🚀</strong>
 </p>
