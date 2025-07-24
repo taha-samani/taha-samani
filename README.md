@@ -6,10 +6,6 @@
   I love building scalable, secure, and maintainable software — with ❤️ for clean code & performance.
 </p>
 
-<p align="center">
-  <em>Keywords: Taha Samani, taha-samani, Full-stack developer, Backend developer, طاها سامانی, NestJS developer, GitHub Iran</em>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
